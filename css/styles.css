@@ -7,6 +7,9 @@
     font-family: Helvetica;
     color: #333;
 }
+html{
+    height: 100vh;
+}
 body{
     background:url(https://images.unsplash.com/photo-1513002749550-c59d786b8e6c?w=1000&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8Y2V1fGVufDB8fDB8fHww) no-repeat center;
     background-size: cover;
